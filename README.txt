@@ -117,8 +117,8 @@ Este proyecto utiliza la plantilla "Stellar" de HTML5 UP bajo licencia Creative 
 
 ## 📊 Estadísticas del Proyecto
 
-- **Tiempo de desarrollo**: X horas
-- **Líneas de código**: ~500
+- **Tiempo de desarrollo**: 4 horas
+- **Líneas de código**: ~500+
 - **Tamaño del proyecto**: ~2MB
 - **Tiempo de carga**: <3 segundos
 
